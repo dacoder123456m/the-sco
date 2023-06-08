@@ -1,1 +1,1 @@
-# the-sco
+# the-wusco
